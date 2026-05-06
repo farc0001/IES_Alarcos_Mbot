@@ -1,2 +1,3 @@
 # IES_Alarcos_Mbot
-Repositorio para la competición de robótica de la UCLM en la modalidad Mbot2
+Repositorio para la competición de robótica de la UCLM en la modalidad Mbot2.
+En la carpeta de 
