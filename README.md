@@ -25,13 +25,17 @@ Para esta misión solo se ha empleado el cuádruple sensor RGB.
 Para cumplir la misión correctamente, se ha encontrado la siguiente solución con el orden a la hora de seguir las líneas verdes según la imagen siguiente.
 <img width="609" height="582" alt="image" src="https://github.com/user-attachments/assets/e7384a37-fda3-4361-8858-ce5fdc299fa9" />
 
+### VÍDEO DEMOSTRATIVO
+https://youtu.be/uQo3TOVY_8g
+
 
 ## MISIÓN 2. TRASLADO AUTÓNOMO DE ALPACAS DE PAJA
 Siguiendo las líneas negras y de color, hay que trasladar las alpacas que están en cada línea de color a la zona de graneros de su color. El blanco es la de la alpaca que no está en ninguna línea.
 <img width="831" height="788" alt="image" src="https://github.com/user-attachments/assets/c8912d93-7d92-4f65-b83f-804ece486ced" />
 
 Para hacer la misión 2, primero se coloca la alpaca de la línea azul, después la verde, la roja, la amarilla y finalmente la que va al color blanco. Se emplea combinado el sensor distancia de ultrasonidos con el cuádruple sensor de RGB.
-
+### VÍDEO DEMOSTRATIVO
+https://youtu.be/30Dh5yGpu2k
 
 ## MISIÓN 3. EXTINCIÓN AUTOMÁTICA DE INCENDIOS
 Dentro de cada uno de los 4 círculos hay una vela, tres de ellas encendidas (la blanca es una de ellas) y otra apagada.
